@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashar-Enshaii-Moghadam
-- 👀 I’m interested in front-end
+- 👀 I’m interested in front-end web site
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on front-end Web site
 - 📫 How to reach me in linkedin @Yashar_E_M
